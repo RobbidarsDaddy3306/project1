@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DataBaseDesign:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/DataStructure/src/LinkList/TermX/TermX.java" line="1" />
+    <bookmark url="file://$PROJECT_DIR$/DataStructure/src/BinaryTree/TestBinary.java" line="8" />
+    <bookmark url="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.sql/java/sql/Statement.java" line="93" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89169f5a-93a2-4c7a-a679-543443c91732" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/tcpip/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HttpSystem/src/HttpSession/EmulateServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>size</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/TextDoc.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Documents/instructions" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Temp.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/RegisterFrame.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Database.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/PersonAdd.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Deposit.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/MyTableModel.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/User.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Person.java" />
+        <option value="$PROJECT_DIR$/ClassSQL/src/Experi9/PersonResult.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Start.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/AssetQuery.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/History.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Statistics.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/AssetQueryResult.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/RecordVerify.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Destruct.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Deal.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Remittance.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/StatisticsUtils.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Register.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Bank.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/Login.java" />
+        <option value="$PROJECT_DIR$/Games/src/AutoChess/Role.java" />
+        <option value="$PROJECT_DIR$/Games/src/AutoChess/Sniper.java" />
+        <option value="$PROJECT_DIR$/Games/src/AutoChess/Artillery.java" />
+        <option value="$PROJECT_DIR$/Games/src/AutoChess/Medics.java" />
+        <option value="$PROJECT_DIR$/Games/src/AutoChess/Player.java" />
+        <option value="$PROJECT_DIR$/Games/src/AutoChess/Start.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/pojo/Statistics.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/controller/Deal.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/view/AssetQueryResult.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/main/Bank.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/controller/Remittance.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/util/StatisticsUtils.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/main/Start.java" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/druid.properties" />
+        <option value="$PROJECT_DIR$/DBClassDesign/src/Bank/util/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/tcpip/pom.xml" />
+        <option value="$PROJECT_DIR$/tcpip/src/test/java/DemoServer.java" />
+        <option value="$PROJECT_DIR$/tcpip/src/test/java/TestTCP.java" />
+        <option value="$PROJECT_DIR$/tcpip/src/test/java/DemoClient.java" />
+        <option value="$PROJECT_DIR$/HttpSystem/src/demo/DemoClient.java" />
+        <option value="$PROJECT_DIR$/HttpSystem/src/demo/DemoServer.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/HttpSystem/src/demo/DemoUploadClient.java" />
+        <option value="$PROJECT_DIR$/HttpSystem/src/demo/DemoUploadServer.java" />
+        <option value="$PROJECT_DIR$/HttpSystem/web/index.html" />
+        <option value="$PROJECT_DIR$/HttpSystem/src/HttpSession/EmulateServerII.java" />
+        <option value="$PROJECT_DIR$/HttpSystem/src/HttpSession/EmulateServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="960" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HttpSystem/web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="demo1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\JustWeb\ClassSQL\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HttpSession" />
+      <recent name="Bank.main" />
+      <recent name="Bank" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\JustWeb\HttpSystem\web" />
+      <recent name="C:\Users\DELL\IdeaProjects\JustWeb\HttpSystem" />
+      <recent name="C:\Users\DELL\IdeaProjects\JustWeb\DBClassDesign\src" />
+      <recent name="C:\Users\DELL\IdeaProjects\JustWeb\DBClassDesign\src\lib" />
+      <recent name="C:\Users\DELL\IdeaProjects\JustWeb\DBClassDesign\src\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EmulateServerII">
+    <configuration name="DemoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.DemoClient" />
+      <module name="HttpSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoUploadClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.DemoUploadClient" />
+      <module name="HttpSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoUploadServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.DemoUploadServer" />
+      <module name="HttpSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmulateServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpSession.EmulateServer" />
+      <module name="HttpSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HttpSession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmulateServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpSession.EmulateServer" />
+      <module name="HttpSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HttpSession.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo01Threads" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01Threads" />
+      <module name="OperatingSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="JustWeb" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="JustWeb" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="DataBaseDesign:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/DataBaseDesign_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_31_JustWeb_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61493" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="DataBaseDesign:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JustWeb_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61492" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.demo01Threads" />
+      <item itemvalue="Application.DemoClient" />
+      <item itemvalue="Application.DemoUploadServer" />
+      <item itemvalue="Application.DemoUploadClient" />
+      <item itemvalue="Application.EmulateServer" />
+      <item itemvalue="Application.EmulateServerII" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmulateServerII" />
+        <item itemvalue="Application.EmulateServer" />
+        <item itemvalue="Application.DemoUploadClient" />
+        <item itemvalue="Application.DemoUploadServer" />
+        <item itemvalue="Application.DemoClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89169f5a-93a2-4c7a-a679-543443c91732" name="Default Changelist" comment="" />
+      <created>1567424807437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567424807437</updated>
+      <workItem from="1567424810238" duration="458000" />
+      <workItem from="1567425289560" duration="635000" />
+      <workItem from="1567685815541" duration="825000" />
+      <workItem from="1567769450415" duration="5714000" />
+      <workItem from="1567778902042" duration="94000" />
+      <workItem from="1567843494976" duration="1201000" />
+      <workItem from="1567945778536" duration="353000" />
+      <workItem from="1568023755610" duration="548000" />
+      <workItem from="1568028933444" duration="4882000" />
+      <workItem from="1568110981451" duration="4606000" />
+      <workItem from="1568181809679" duration="574000" />
+      <workItem from="1568255954288" duration="780000" />
+      <workItem from="1568274870544" duration="365000" />
+      <workItem from="1568521470079" duration="6333000" />
+      <workItem from="1568528460600" duration="443000" />
+      <workItem from="1568538922106" duration="3209000" />
+      <workItem from="1568629060152" duration="2396000" />
+      <workItem from="1568641962823" duration="3469000" />
+      <workItem from="1568700523467" duration="984000" />
+      <workItem from="1568803258657" duration="1787000" />
+      <workItem from="1569139588239" duration="6023000" />
+      <workItem from="1569248885632" duration="2098000" />
+      <workItem from="1569336549021" duration="987000" />
+      <workItem from="1569401982630" duration="1392000" />
+      <workItem from="1569740072548" duration="62000" />
+      <workItem from="1570540089765" duration="1574000" />
+      <workItem from="1570625924904" duration="3622000" />
+      <workItem from="1571197692242" duration="2155000" />
+      <workItem from="1571213623272" duration="5638000" />
+      <workItem from="1571470433194" duration="9623000" />
+      <workItem from="1571662914256" duration="2537000" />
+      <workItem from="1571738204905" duration="7230000" />
+      <workItem from="1571816144208" duration="6107000" />
+      <workItem from="1571834599783" duration="331000" />
+      <workItem from="1571919721783" duration="2108000" />
+      <workItem from="1572051689613" duration="6584000" />
+      <workItem from="1572072708911" duration="234000" />
+      <workItem from="1572137167260" duration="3440000" />
+      <workItem from="1572162411927" duration="4305000" />
+      <workItem from="1572175258529" duration="5873000" />
+      <workItem from="1572677950895" duration="5714000" />
+      <workItem from="1572957713999" duration="2980000" />
+      <workItem from="1573129203240" duration="783000" />
+      <workItem from="1573216535770" duration="1815000" />
+      <workItem from="1573293358195" duration="1499000" />
+      <workItem from="1573383860626" duration="1236000" />
+      <workItem from="1573554438157" duration="4295000" />
+      <workItem from="1573703881613" duration="70000" />
+      <workItem from="1573813161873" duration="280000" />
+      <workItem from="1573865475000" duration="2123000" />
+      <workItem from="1573886818842" duration="65000" />
+      <workItem from="1574073911122" duration="2174000" />
+      <workItem from="1574163375076" duration="224000" />
+      <workItem from="1574498890257" duration="1973000" />
+      <workItem from="1574919546912" duration="5565000" />
+      <workItem from="1574935441211" duration="4742000" />
+      <workItem from="1574998480251" duration="2732000" />
+      <workItem from="1575030562105" duration="3760000" />
+      <workItem from="1575090911714" duration="2288000" />
+      <workItem from="1575124494406" duration="3460000" />
+      <workItem from="1575179314181" duration="4519000" />
+      <workItem from="1575195934911" duration="8124000" />
+      <workItem from="1575205784129" duration="1053000" />
+      <workItem from="1575206958139" duration="339000" />
+      <workItem from="1575210927596" duration="248000" />
+      <workItem from="1575211292460" duration="45000" />
+      <workItem from="1575280761158" duration="11042000" />
+      <workItem from="1575358555021" duration="3679000" />
+      <workItem from="1575379836010" duration="344000" />
+      <workItem from="1575380223947" duration="1225000" />
+      <workItem from="1575383923883" duration="1643000" />
+      <workItem from="1575437621933" duration="5723000" />
+      <workItem from="1575463135524" duration="995000" />
+      <workItem from="1575523898402" duration="3061000" />
+      <workItem from="1575545911530" duration="133000" />
+      <workItem from="1575549199569" duration="76000" />
+      <workItem from="1575981504498" duration="373000" />
+      <workItem from="1576060147938" duration="616000" />
+      <workItem from="1576067394098" duration="321000" />
+      <workItem from="1576068218368" duration="116000" />
+      <workItem from="1576130050923" duration="4433000" />
+      <workItem from="1576137450218" duration="16305000" />
+      <workItem from="1576204118848" duration="1884000" />
+      <workItem from="1576217515160" duration="67000" />
+      <workItem from="1576223148883" duration="3373000" />
+      <workItem from="1576232188957" duration="1475000" />
+      <workItem from="1576318352026" duration="3454000" />
+      <workItem from="1576479343528" duration="3965000" />
+      <workItem from="1577338886187" duration="4680000" />
+      <workItem from="1577346621485" duration="297000" />
+      <workItem from="1577348500467" duration="693000" />
+      <workItem from="1577371566280" duration="129000" />
+      <workItem from="1577801105146" duration="3935000" />
+      <workItem from="1577876574643" duration="1895000" />
+      <workItem from="1577970425728" duration="5536000" />
+      <workItem from="1578028488346" duration="2825000" />
+      <workItem from="1578052185820" duration="494000" />
+      <workItem from="1578269241487" duration="2168000" />
+      <workItem from="1578279088778" duration="651000" />
+      <workItem from="1578402863112" duration="3282000" />
+      <workItem from="1578481050265" duration="763000" />
+      <workItem from="1578528365458" duration="3467000" />
+      <workItem from="1578574054807" duration="514000" />
+      <workItem from="1578734924475" duration="1156000" />
+      <workItem from="1578743927651" duration="908000" />
+      <workItem from="1578995807449" duration="268000" />
+      <workItem from="1579440307696" duration="18000" />
+      <workItem from="1579440945947" duration="4721000" />
+      <workItem from="1581252306903" duration="212000" />
+      <workItem from="1591107703335" duration="860000" />
+      <workItem from="1591180741888" duration="708000" />
+      <workItem from="1592899943690" duration="1968000" />
+      <workItem from="1592993430940" duration="56000" />
+      <workItem from="1593679756173" duration="389000" />
+      <workItem from="1593680384800" duration="1365000" />
+      <workItem from="1593683735139" duration="144000" />
+      <workItem from="1593762085359" duration="5420000" />
+      <workItem from="1593833166362" duration="5780000" />
+      <workItem from="1593840166943" duration="4260000" />
+      <workItem from="1593844656752" duration="970000" />
+      <workItem from="1593943983199" duration="209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Demo01Druid_test - 2019.09.10 at 21h 07m 52s.xml">
+      <configuration name="Demo01Druid.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo01Druid_test - 2019.09.10 at 21h 10m 33s.xml">
+      <configuration name="Demo01Druid.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo01Druid_test - 2019.09.10 at 21h 11m 06s.xml">
+      <configuration name="Demo01Druid.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTermx_test - 2019.10.16 at 17h 17m 01s.xml">
+      <configuration name="TestTermx.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTermx_test - 2019.10.16 at 17h 18m 25s.xml">
+      <configuration name="TestTermx.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTermx_test - 2019.10.16 at 17h 18m 40s.xml">
+      <configuration name="TestTermx.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTermx_test - 2019.10.16 at 17h 18m 52s.xml">
+      <configuration name="TestTermx.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTermx_test - 2019.10.16 at 17h 19m 26s.xml">
+      <configuration name="TestTermx.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTermx_test - 2019.10.16 at 17h 19m 40s.xml">
+      <configuration name="TestTermx.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTermx_test - 2019.10.22 at 21h 08m 12s.xml">
+      <configuration name="TestTermx.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="298729000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19168901" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32956153" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49932975" weight="0.2560113" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50067025" side_tool="true" weight="0.38613862" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3281471" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18632708" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32956153" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49932975" visible="true" weight="0.2560113" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50067025" side_tool="true" weight="0.38613862" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3281471" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JustWeb$LoginFrame.ic" NAME="LoginFrame Coverage Results" MODIFIED="1575207000919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Experi7.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JustWeb$PersonSelect.ic" NAME="PersonSelect Coverage Results" MODIFIED="1575181817629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Experi8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JustWeb$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1574947459438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Experi7.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JustWeb$RegisterFrame.ic" NAME="RegisterFrame Coverage Results" MODIFIED="1575035051648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Experi7.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Temp/src/demo1/Demo1.java" />
+    <entry file="file://$PROJECT_DIR$/DatabaseExe/src/demo1/Demo1.java" />
+    <entry file="file://$PROJECT_DIR$/DatabaseExe/src/demo1/Demo3.java" />
+    <entry file="file://$PROJECT_DIR$/DatabaseExe/src/demo1/Demo4.java" />
+    <entry file="file://$PROJECT_DIR$/DBClassDesign/src/druid.properties" />
+    <entry file="file://$PROJECT_DIR$/DBClassDesign/src/Bank/util/JDBCUtils.java" />
+    <entry file="file://$PROJECT_DIR$/DBClassDesign/src/Bank/main/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBClassDesign/src/Bank/main/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBClassDesign/src/Bank/util/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBClassDesign/src/Bank/controller/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tcpip/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.txt" />
+    <entry file="file://$PROJECT_DIR$/JustWeb.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpSystem/src/demo/DemoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8343">
+          <caret line="69" column="50" lean-forward="true" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpSystem/src/demo/DemoUploadClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpSystem/src/demo/DemoUploadServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpSystem/src/demo/DemoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/4.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/s2.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/css/simplelightbox.min.css" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/css/font-awesome.css" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/arrow.png" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/bg4.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/bg5.png" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/c2.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/c1.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/c7.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/g6.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/g5.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/g2.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/e1.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/c-arrows.png" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/t1.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/t3.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/te2.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/graduate.png" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/t4.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/images/te3.jpg" />
+    <entry file="file://$PROJECT_DIR$/HttpSystem/HttpSystem.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6979">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1801">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpSystem/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpSystem/src/HttpSession/EmulateServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpSystem/src/HttpSession/EmulateServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HttpSystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

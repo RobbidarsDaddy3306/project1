@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="druid">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/day28/druid" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/day28/druid" recursive="false" />
+  </library>
+</component>
